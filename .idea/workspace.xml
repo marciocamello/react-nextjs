@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e824c54-1036-40eb-a8ce-bdee7bd799a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/Layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/Navbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/components/Prices.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/components/Prices.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
-              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -64,6 +61,7 @@
         <option value="$PROJECT_DIR$/components/Navbar.js" />
         <option value="$PROJECT_DIR$/pages/index.js" />
         <option value="$PROJECT_DIR$/components/Prices.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -116,16 +114,6 @@
               <item name="crash-nextjs" type="b2602c69:ProjectViewProjectNode" />
               <item name="crash-nextjs" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="crash-nextjs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crash-nextjs" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crash-nextjs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crash-nextjs" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -172,12 +160,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516406541559</updated>
-      <workItem from="1516406544590" duration="2728000" />
+      <workItem from="1516406544590" duration="2829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2728000" />
+    <option name="totallyTimeSpent" value="2829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="609" y="8" width="1307" height="1047" extended-state="0" />
@@ -274,10 +262,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/components/Prices.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <caret line="26" column="17" lean-forward="false" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
           <folding />
         </state>
       </provider>
